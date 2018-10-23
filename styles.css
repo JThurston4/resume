@@ -1,0 +1,13 @@
+header {
+    text-align: center;
+    text-shadow: 0px 1px whitesmoke;
+    background-color:lightslategray;
+}
+
+main h1 {
+  color: rgb(3, 75, 75);
+}
+
+main h1:hover{
+  color:gray;
+}
